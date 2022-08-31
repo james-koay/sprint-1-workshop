@@ -4,3 +4,4 @@ woop
 push push yay
 branch yes?
 branch commit and push
+branch commit push message and merge
